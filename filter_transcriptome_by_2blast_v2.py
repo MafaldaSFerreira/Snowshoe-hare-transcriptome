@@ -1,4 +1,4 @@
-#This is a program that will join the contig code and ENSEMBL gene code
+#This is a script that will join the contig code and ENSEMBL gene code
 #from two blast results (Oryc and Mus) into one single dictionary 
 #and will create a new transcriptome fasta file only with the contigs
 #that were annotated in the Oryc or Mus database.
