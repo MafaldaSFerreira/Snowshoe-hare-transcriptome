@@ -1,3 +1,5 @@
+#Script modified from original python do_Gaf_file.py, writen by Damian Kao and available at http://blog.nextgenetics.net/?e=5
+#Author: Mafalda S. Ferreira, 2014 @ Porto
 import sys
 
 #input the gene annotation file (inFile) and your GOID/terms index file (goFile)
