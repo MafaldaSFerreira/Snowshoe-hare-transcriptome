@@ -1,5 +1,6 @@
 #A script to produce a correspondence file between the ENSEMBL codes of my transcriptome and their respective GO terms
 #Because I have both MUS and ORYC ENSEMBL annotations, this script will work with both
+# AUTHOR: Mafalda S. Ferreira, 2014 @ Porto
 # ---------------------------------------------------------------------------------------------------------------------------
 # USAGE: python make_input_4_gaf.py corr_btw_ory_ensembl&go corr_btw_mus_ensembl&go annot_ory2ensembl annot_mus2ensembl output
 # ---------------------------------------------------------------------------------------------------------------------------
